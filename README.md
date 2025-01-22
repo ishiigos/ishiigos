@@ -1,4 +1,9 @@
-## Hi there 👋
+<H1> Hey Reader👋! My name is Ishita Goswami </H1>
+
+<H3> A little about me: </H3>
+✧ Graduated in STEM disciplines:<br>
+&emsp;&emsp;✦ Master's in Bioinformatics & Systems Biology from the University of Manchester<br>
+&emsp;&emsp;✦ Bachelor's in Microbial & Food Technology from Panjab University
 
 <!--
 **ishiigos/ishiigos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
