@@ -3,8 +3,8 @@
 <H3> A little about me: </H3>
 ✧ Graduated in STEM disciplines:<br>
 &emsp;&emsp;✦ Master's in Bioinformatics & Systems Biology from the University of Manchester<br>
-&emsp;&emsp;✦ Bachelor's in Microbial & Food Technology from Panjab University
-
+&emsp;&emsp;✦ Bachelor's in Microbial & Food Technology from Panjab University<br><br>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679907ec1ee9a7b2d0a83c2f?variant=dark" alt="roadmap.sh"/></a>
 <!--
 **ishiigos/ishiigos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
