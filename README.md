@@ -5,7 +5,7 @@
 &emsp;&emsp;✦ Master's in Bioinformatics & Systems Biology from the University of Manchester<br>
 &emsp;&emsp;✦ Bachelor's in Microbial & Food Technology from Panjab University<br><br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679907ec1ee9a7b2d0a83c2f?variant=dark&roadmaps=python%2Clinux%2Cfull-stack%2Creact-native" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679907ec1ee9a7b2d0a83c2f?variant=dark&roadmaps=python%2Clinux%2Cgit-github" alt="roadmap.sh"/></a>
 <!--
 **ishiigos/ishiigos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
