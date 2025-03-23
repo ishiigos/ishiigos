@@ -7,11 +7,11 @@
 <br>
 &emsp;&emsp;✦ Bachelor's in Microbial & Food Technology from Panjab University
 <br><br>
-✧ 👩🏻‍💻 Actively looking for roles in Bioinformatics, Software Development, Data Analysis and related fields in the UK. 
+✧ 👩🏻‍💻 Actively looking for roles in Bioinformatics, Software Development, Data Analysis and related fields in the UK. I am eager to contribute to innovative projects.
 <br><br>
-✧ 🖥️ Currrently working on multiple projects in pursuit of learning and keeping up with advancements in software and bioinformatics
+✧ 🖥️ Currently working on multiple projects in pursuit of learning and keeping up with advancements in software and bioinformatics
 <br><br>
-✧ 🔬 Interested in biological systems, exploring biological data patters, evolutionary mechanisms, and the role of bioinformatics for advancements in genomics and medicine.
+✧ 🔬 Interests: <ul>Biological systems, exploring biological data patterns, evolutionary biology mechanisms, and the role of bioinformatics for advancements in genomics and medicine.</ul>
 
 <h2>Skills</h2>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
