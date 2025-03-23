@@ -11,7 +11,13 @@
 <br><br>
 ✧ 🖥️ Currently working on multiple projects in pursuit of learning and keeping up with advancements in software and bioinformatics
 <br><br>
-✧ 🔬 Interests: <ul>Biological systems, exploring biological data patterns, evolutionary biology mechanisms, and the role of bioinformatics for advancements in genomics and medicine.</ul>
+✧ 🔬 Interests: 
+<ul>
+  <li>Evolutionary biology mechanisms,</li>
+  <li>Exploring biological data patterns,</li>
+  <li>Role of bioinformatics for advancements in genomics and medicine.</li>
+  <li>Biological systems,</li> 
+</ul>
 
 <h2>Skills</h2>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
