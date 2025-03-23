@@ -20,6 +20,16 @@
 </ul>
 
 <h2>Skills</h2>
+<ul>
+  <li><b>Programming Languages:</b></li>
+  <li><b>Machine Learning:</b>/</li>
+  <li><b>Web and Mobile Development:</b>/</li>
+  <li><b>Version Control:</b></li>
+  <li><b>Bioinformatics:</b></li>
+  <li><b>Statistics / Data Analysis:</b>/</li>
+  <li><b>Next Generation Sequencing:</b></li>
+  <li><b>Collaboration and Soft skills:</b>/</li>
+</ul>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679907ec1ee9a7b2d0a83c2f?variant=dark&roadmaps=python%2Clinux%2Cgit-github" alt="roadmap.sh"/></a>
 <!--
