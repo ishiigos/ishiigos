@@ -14,6 +14,7 @@
 ✧ 🔬 Interests: 
 <ul>
   <li>Evolutionary biology mechanisms,</li>
+  <li>Artificial Intelligence and Machine Learning in Biology,</li>
   <li>Exploring biological data patterns,</li>
   <li>Role of bioinformatics for advancements in genomics and medicine.</li>
   <li>Biological systems,</li> 
