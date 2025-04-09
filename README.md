@@ -22,14 +22,15 @@
 
 <h2>Skills</h2>
 <ul>
-  <li><b>Programming Languages:</b></li>
-  <li><b>Machine Learning:</b>/</li>
-  <li><b>Web and Mobile Development:</b>/</li>
-  <li><b>Version Control:</b></li>
-  <li><b>Bioinformatics:</b></li>
-  <li><b>Statistics / Data Analysis:</b>/</li>
-  <li><b>Next Generation Sequencing:</b></li>
-  <li><b>Collaboration and Soft skills:</b>/</li>
+  <li><b>Programming Languages:</b> Python(numpy, scikit-learn, matplotlib, pandas, NetworkX), R, Unix, Linux commands, Bash, Shell scripting</li>
+  <li><b>Machine Learning:</b> Supervised and Unsupervised learning, PCA, Logistic and Linear Regression, Clustering, Decision Trees, Neural Networks</li>
+  <li><b>Web and Mobile Development:</b> HTML, CSS, TypeScript, JavaScript, ReactNative</li>
+  <li><b>Data Preparation:</b> Web scraping, Data wrangling, Data cleaning</li>
+  <li><b>Version Control:</b> Git</li>
+  <li><b>Bioinformatics:</b> Databases, BLAST, NGS analysis, Phylogenetic analysis, sequence analysis, network analysis, network and metabolic modelling</li>
+  <li><b>Statistics / Data Analysis:</b> R Studio, data visualization, statistical modelling </li>
+  <li><b>Next Generation Sequencing:</b> Illumina, Nanopore, PacBio reads, FASTQ quality control, Genome Assembly, Sequence alignment, Gene Annotation, Gene Mapping, Visualization</li>
+  <li><b>Collaboration and Soft skills:</b> Active listening, teamwork, time management.</li>
 </ul>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679907ec1ee9a7b2d0a83c2f?variant=dark&roadmaps=python%2Clinux%2Cgit-github" alt="roadmap.sh"/></a>
