@@ -34,6 +34,11 @@
 </ul>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679907ec1ee9a7b2d0a83c2f?variant=dark&roadmaps=python%2Clinux%2Cgit-github" alt="roadmap.sh"/></a>
+
+
+[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 <!--
 **ishiigos/ishiigos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
