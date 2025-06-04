@@ -33,17 +33,86 @@
   <li><b>Collaboration and Soft skills:</b> Active listening, teamwork, time management.</li>
 </ul>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
+
+<h2 align="center">🚀 Technical & Professional Skills</h2>
+
+<h3>🖥️ Programming Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unix-003B57?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+<h3>🤖 Machine Learning</h3>
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkX-FFDD00?style=for-the-badge&logo=python&logoColor=black" />
+</p>
+
+<h3>🌐 Web & Mobile Development</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+<h3>🧹 Data Preparation</h3>
+<p>
+  <img src="https://img.shields.io/badge/Web_Scraping-005571?style=for-the-badge&logo=beautifulsoup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Wrangling-FF6F61?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Cleaning-6DB33F?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+<h3>📁 Version Control</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<h3>🧬 Bioinformatics</h3>
+<p>
+  <img src="https://img.shields.io/badge/BLAST-5589CA?style=for-the-badge&logo=ncbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGS_Analysis-4E91CE?style=for-the-badge&logo=nextdns&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequence_Analysis-003366?style=for-the-badge&logo=dna&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phylogenetics-3C8DBC?style=for-the-badge&logo=treehouse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metabolic_Modelling-6A1B9A?style=for-the-badge&logo=apacherocketmq&logoColor=white" />
+</p>
+
+<h3>📊 Statistics / Data Analysis</h3>
+<p>
+  <img src="https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FE5F55?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistical_Modeling-283593?style=for-the-badge&logo=r&logoColor=white" />
+</p>
+
+<h3>🧬 Next Generation Sequencing</h3>
+<p>
+  <img src="https://img.shields.io/badge/Illumina-0099C6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nanopore-58595B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PacBio-8E44AD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FASTQ_QC-4CAF50?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Genome_Assembly-1E88E5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequence_Alignment-FFA000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gene_Annotation-E91E63?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gene_Mapping-009688?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visualization-3F51B5?style=for-the-badge&logo=googlecharts&logoColor=white" />
+</p>
+
+<h3>🤝 Collaboration & Soft Skills</h3>
+<p>
+  <img src="https://img.shields.io/badge/Active_Listening-03A9F4?style=for-the-badge&logo=audacity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teamwork-00C853?style=for-the-badge&logo=teams&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time_Management-F9A825?style=for-the-badge&logo=clockify&logoColor=white" />
+</p>
+
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679907ec1ee9a7b2d0a83c2f?variant=dark&roadmaps=python%2Clinux%2Cgit-github" alt="roadmap.sh"/></a>
-
-
-[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-
-| Programming | Tools & IDEs |
-|-------------|--------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-| ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 <!--
 **ishiigos/ishiigos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
