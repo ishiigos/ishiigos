@@ -1,4 +1,6 @@
 <H1> Hey there! My name is Ishita Goswami, welcome to my profile</H1>
+<p> You might know me as ishiigos from my other profiles </p>
+<p> or maybe not, in which case... nice to meet you ♡ </p>
 
 <H3> A little about me: </H3>
 ✧ Graduate in STEM disciplines:
