@@ -21,6 +21,8 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
   <li>Biological systems,</li> 
 </ul>
 
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 <h2>Skills</h2>
 <ul>
   <li><b>Programming Languages:</b> Python(numpy, scikit-learn, matplotlib, pandas, NetworkX), R, Unix, Linux commands, Bash, Shell scripting</li>
