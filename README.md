@@ -26,7 +26,7 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
   <li>Biological systems,</li> 
 </ul>
 
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+<!--
 
 <h2>Skills</h2>
 <ul>
@@ -70,7 +70,39 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 # New:
 # Hi, I'm Ishita 👋
 
+-->
+
 ## 🧠 Skills
+
+### 🔹 Bioinformatics  
+![Databases](https://img.shields.io/badge/Databases-336791?logo=postgresql&logoColor=white)
+![BLAST](https://img.shields.io/badge/BLAST-000000?logo=dna&logoColor=white)
+![NGS Analysis](https://img.shields.io/badge/NGS_Analysis-FF6F00?logo=dna&logoColor=white)
+![Phylogenetic Analysis](https://img.shields.io/badge/Phylogenetic_Analysis-4CAF50?logo=dna&logoColor=white)
+![Sequence Analysis](https://img.shields.io/badge/Sequence_Analysis-9C27B0?logo=dna&logoColor=white)
+![Network Analysis](https://img.shields.io/badge/Network_Analysis-000000?logo=python&logoColor=white)
+![Metabolic Modelling](https://img.shields.io/badge/Metabolic_Modelling-795548?logo=dna&logoColor=white)
+
+### 🔹 Next Generation Sequencing  
+![Illumina](https://img.shields.io/badge/Illumina-FF6F00?logo=dna&logoColor=white)
+![Nanopore](https://img.shields.io/badge/Nanopore-000000?logo=dna&logoColor=white)
+![PacBio](https://img.shields.io/badge/PacBio-795548?logo=dna&logoColor=white)
+![FASTQ QC](https://img.shields.io/badge/FASTQ_QC-4CAF50?logo=dna&logoColor=white)
+![Genome Assembly](https://img.shields.io/badge/Genome_Assembly-9C27B0?logo=dna&logoColor=white)
+![Sequence Alignment](https://img.shields.io/badge/Sequence_Alignment-2196F3?logo=dna&logoColor=white)
+![Gene Annotation](https://img.shields.io/badge/Gene_Annotation-FF9800?logo=dna&logoColor=white)
+![Gene Mapping](https://img.shields.io/badge/Gene_Mapping-607D8B?logo=dna&logoColor=white)
+![Visualization](https://img.shields.io/badge/Visualization-11557c?logo=plotly&logoColor=white)
+
+### 🔹 Data Preparation  
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-FF6F00?logo=python&logoColor=white)
+![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-009688?logo=python&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-795548?logo=python&logoColor=white)
+
+### 🔹 Statistics / Data Analysis  
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?logo=plotly&logoColor=white)
+![Statistical Modelling](https://img.shields.io/badge/Statistical_Modelling-009688?logo=r&logoColor=white)
 
 ### 🔹 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -85,8 +117,6 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-121011?logo=gnu-bash&logoColor=white)
 
----
-
 ### 🔹 Machine Learning  
 ![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-102230?logo=pytorch&logoColor=white)
 ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-102230?logo=pytorch&logoColor=white)
@@ -96,7 +126,8 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 ![Decision Trees](https://img.shields.io/badge/Decision_Trees-795548?logo=python&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF0000?logo=tensorflow&logoColor=white)
 
----
+### 🔹 Version Control  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ### 🔹 Web and Mobile Development  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -105,69 +136,12 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
 
----
-
-### 🔹 Data Preparation  
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-FF6F00?logo=python&logoColor=white)
-![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-009688?logo=python&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-795548?logo=python&logoColor=white)
-
----
-
-### 🔹 Version Control  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
----
-
-### 🔹 Bioinformatics  
-![Databases](https://img.shields.io/badge/Databases-336791?logo=postgresql&logoColor=white)
-![BLAST](https://img.shields.io/badge/BLAST-000000?logo=dna&logoColor=white)
-![NGS Analysis](https://img.shields.io/badge/NGS_Analysis-FF6F00?logo=dna&logoColor=white)
-![Phylogenetic Analysis](https://img.shields.io/badge/Phylogenetic_Analysis-4CAF50?logo=dna&logoColor=white)
-![Sequence Analysis](https://img.shields.io/badge/Sequence_Analysis-9C27B0?logo=dna&logoColor=white)
-![Network Analysis](https://img.shields.io/badge/Network_Analysis-000000?logo=python&logoColor=white)
-![Metabolic Modelling](https://img.shields.io/badge/Metabolic_Modelling-795548?logo=dna&logoColor=white)
-
----
-
-### 🔹 Statistics / Data Analysis  
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?logo=plotly&logoColor=white)
-![Statistical Modelling](https://img.shields.io/badge/Statistical_Modelling-009688?logo=r&logoColor=white)
-
----
-
-### 🔹 Next Generation Sequencing  
-![Illumina](https://img.shields.io/badge/Illumina-FF6F00?logo=dna&logoColor=white)
-![Nanopore](https://img.shields.io/badge/Nanopore-000000?logo=dna&logoColor=white)
-![PacBio](https://img.shields.io/badge/PacBio-795548?logo=dna&logoColor=white)
-![FASTQ QC](https://img.shields.io/badge/FASTQ_QC-4CAF50?logo=dna&logoColor=white)
-![Genome Assembly](https://img.shields.io/badge/Genome_Assembly-9C27B0?logo=dna&logoColor=white)
-![Sequence Alignment](https://img.shields.io/badge/Sequence_Alignment-2196F3?logo=dna&logoColor=white)
-![Gene Annotation](https://img.shields.io/badge/Gene_Annotation-FF9800?logo=dna&logoColor=white)
-![Gene Mapping](https://img.shields.io/badge/Gene_Mapping-607D8B?logo=dna&logoColor=white)
-![Visualization](https://img.shields.io/badge/Visualization-11557c?logo=plotly&logoColor=white)
-
----
-
 ### 🔹 Collaboration & Soft Skills  
 ![Active Listening](https://img.shields.io/badge/Active_Listening-009688?logo=google&logoColor=white)
 ![Teamwork](https://img.shields.io/badge/Teamwork-2196F3?logo=teams&logoColor=white)
 ![Time Management](https://img.shields.io/badge/Time_Management-795548?logo=clockify&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats  
-
-![Ishita's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ishiigos&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ishiigos&layout=compact&theme=tokyonight&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ishiigos&theme=tokyonight)
-
-
-
-
 
 <!--
 <h2 align="center">🚀 Technical & Professional Skills</h2>
