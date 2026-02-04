@@ -50,25 +50,48 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-### 📈 GitHub Stats  
-![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishiigos&show_icons=true&theme=tokyonight&cache_seconds=86400)
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ishiigos&show_icons=true&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=ishiigos)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishiigos&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ishiigos&theme=tokyonight)
-
-# Hi, I'm Ishita 👋
-
 ## 🧠 Skills  
 [![My Skills](https://skillicons.dev/icons?i=python,r,linux,bash,git,github,html,css,js,react,aws,docker)](https://skillicons.dev)
 
-## 📊 GitHub Stats  
-![Ishita's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ishiigos&show_icons=true&theme=tokyonight&cache_seconds=86400)
+### 🧠 Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-000000?logo=nextflow&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-333333?logo=snakemake&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-00599C?logo=linux&logoColor=white)
+![NGS](https://img.shields.io/badge/NGS-FF6F00?logo=dna&logoColor=white)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ishiigos&layout=compact&theme=tokyonight&cache_seconds=86400)
+### 🧠 Skills  
+[![Skills](https://skillicons.dev/icons?i=python,r,linux,bash,git,github,aws,docker,html,css,js,react)](https://skillicons.dev)
+
+### 🔬 Bioinformatics & Data Science  
+[![Bioinfo](https://skillicons.dev/icons?i=python,r,postgres,sqlite,matlab,tensorflow,pytorch)](https://skillicons.dev)
+
+## 🧠 Skills
+
+<table>
+<tr>
+<td>
+
+### 💻 Software & Dev  
+[![Skills](https://skillicons.dev/icons?i=python,r,linux,bash,git,github,aws,docker,html,css,js,react)](https://skillicons.dev)
+
+</td>
+<td>
+
+### 🔬 Bioinformatics & Data Science  
+- NGS analysis (RNA‑seq, WGS, variant calling)  
+- scRNA‑seq workflows  
+- Nextflow & Snakemake pipelines  
+- HPC & cluster computing  
+- Machine learning for biological data  
+- Comparative genomics  
+- Multi‑omics integration  
+
+</td>
+</tr>
+</table>
+
 
 
 <!--
