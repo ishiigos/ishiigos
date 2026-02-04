@@ -51,7 +51,10 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ### 📈 GitHub Stats  
-![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishiigos&show_icons=true&theme=tokyonight)
+![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishiigos&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ishiigos&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=ishiigos)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishiigos&layout=compact&theme=tokyonight)
 
@@ -63,8 +66,10 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 [![My Skills](https://skillicons.dev/icons?i=python,r,linux,bash,git,github,html,css,js,react,aws,docker)](https://skillicons.dev)
 
 ## 📊 GitHub Stats  
-![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishiigos&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishiigos&layout=compact&theme=tokyonight)
+![Ishita's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ishiigos&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ishiigos&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 
 <!--
 <h2 align="center">🚀 Technical & Professional Skills</h2>
