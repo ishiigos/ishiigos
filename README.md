@@ -116,7 +116,7 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
   <img src="https://img.shields.io/badge/Time_Management-F9A825?style=for-the-badge&logo=clockify&logoColor=white" />
 </p>
 
-## 🚀 Technical & Professional Skills
+<!-- ## 🚀 Technical & Professional Skills
 
 ### 🖥️ Programming Languages
 | Python | R | Linux | Unix | Bash | Shell |
@@ -161,10 +161,10 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 ### 🤝 Collaboration & Soft Skills
 | Active Listening | Teamwork | Time Management |
 |------------------|----------|------------------|
-| ![Listening](https://img.shields.io/badge/Active_Listening-03A9F4?style=for-the-badge&logo=audacity&logoColor=white) | ![Teamwork](https://img.shields.io/badge/Teamwork-00C853?style=for-the-badge&logo=teams&logoColor=white) | ![Time](https://img.shields.io/badge/Time_Management-F9A825?style=for-the-badge&logo=clockify&logoColor=white) |
+| ![Listening](https://img.shields.io/badge/Active_Listening-03A9F4?style=for-the-badge&logo=audacity&logoColor=white) | ![Teamwork](https://img.shields.io/badge/Teamwork-00C853?style=for-the-badge&logo=teams&logoColor=white) | ![Time](https://img.shields.io/badge/Time_Management-F9A825?style=for-the-badge&logo=clockify&logoColor=white) | -->
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679907ec1ee9a7b2d0a83c2f?variant=dark&roadmaps=python%2Clinux%2Cgit-github" alt="roadmap.sh"/></a>
-<!--
+<!-- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679907ec1ee9a7b2d0a83c2f?variant=dark&roadmaps=python%2Clinux%2Cgit-github" alt="roadmap.sh"/></a>
+
 **ishiigos/ishiigos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
