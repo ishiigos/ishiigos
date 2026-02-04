@@ -92,6 +92,27 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 </tr>
 </table>
 
+# Badges only :
+## 🧠 Skills  
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-000000?logo=nextflow&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-333333?logo=snakemake&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-00599C?logo=linux&logoColor=white)
+![NGS](https://img.shields.io/badge/NGS-FF6F00?logo=dna&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+# Most as icons :
+## 🧠 Skills  
+
+[![Skills](https://skillicons.dev/icons?i=python,r,linux,bash,git,github,aws,docker,tensorflow,pytorch,postgres,sqlite)](https://skillicons.dev)
+
+### 🔬 Bioinformatics & Data Science  
+[![Skills](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,matlab,postgres,sqlite)](https://skillicons.dev)
+
 
 
 <!--
