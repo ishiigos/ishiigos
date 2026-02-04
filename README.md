@@ -42,6 +42,30 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 </ul>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
 
+### 🧠 Skills  
+[![My Skills](https://skillicons.dev/icons?i=python,r,linux,bash,git,github,html,css,js,react,aws,docker)](https://skillicons.dev)
+
+### 🧠 Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+### 📈 GitHub Stats  
+![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishiigos&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishiigos&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ishiigos&theme=tokyonight)
+
+# Hi, I'm Ishita 👋
+
+## 🧠 Skills  
+[![My Skills](https://skillicons.dev/icons?i=python,r,linux,bash,git,github,html,css,js,react,aws,docker)](https://skillicons.dev)
+
+## 📊 GitHub Stats  
+![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishiigos&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishiigos&layout=compact&theme=tokyonight)
+
 <!--
 <h2 align="center">🚀 Technical & Professional Skills</h2>
 
