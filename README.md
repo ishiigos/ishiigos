@@ -1,5 +1,7 @@
 ![DNA Helix Animation](assets/dna.gif)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&lines=Hi+there!+I+am+Ishita+Goswami;---;I+like+Transforming+Biological+Data+into+Insights+through+computational+solutions)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=900&lines=Hey+there!+I+am+Ishita+Goswami)](https://git.io/typing-svg)
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=900&lines=I+like+Transforming+Biological+Data+into+Insights+through+computational+solutions)](https://git.io/typing-svg)
