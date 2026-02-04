@@ -1,5 +1,8 @@
 ![DNA Helix Animation](assets/dna.gif)
-# Hey there! My name is Ishita Goswami, welcome to my profile
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey+there!+I+am+Ishita+Goswami)](https://git.io/typing-svg)
+---------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=435&lines=I+like+Transforming+Biological+Data+into+Insights+through+computational+solutions)](https://git.io/typing-svg)
 You might know me as ***ishiigos*** from my other profiles, or maybe not, in which case... nice to meet you ♡
 
 <H3> A little about me: </H3>
