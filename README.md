@@ -42,6 +42,7 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 </ul>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
 
+<!--
 <h2 align="center">🚀 Technical & Professional Skills</h2>
 
 <h3>🖥️ Programming Languages</h3>
@@ -119,7 +120,7 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
   <img src="https://img.shields.io/badge/Teamwork-00C853?style=for-the-badge&logo=teams&logoColor=white" />
   <img src="https://img.shields.io/badge/Time_Management-F9A825?style=for-the-badge&logo=clockify&logoColor=white" />
 </p>
-
+-->
 <!-- ## 🚀 Technical & Professional Skills
 
 ### 🖥️ Programming Languages
