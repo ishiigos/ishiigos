@@ -1,3 +1,4 @@
+![DNA Helix Animation](assets/dna.gif)
 # Hey there! My name is Ishita Goswami, welcome to my profile
 You might know me as ***ishiigos*** from my other profiles, or maybe not, in which case... nice to meet you ♡
 
