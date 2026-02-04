@@ -13,7 +13,7 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 <br>
 &emsp;&emsp;✦ Bachelor's in Microbial & Food Technology from Panjab University
 <br><br>
-✧ 👩🏻‍💻 Actively looking for roles in Bioinformatics, Software Development, Data Analysis and related fields in the UK. I am eager to contribute to innovative projects.
+✧ 👩🏻‍💻 Actively looking for roles in Bioinformatics, Software Development, Data Analysis. I am eager to contribute to innovative projects.
 <br><br>
 ✧ 🖥️ Currently working on multiple projects in pursuit of learning and keeping up with advancements in software and bioinformatics
 <br><br>
