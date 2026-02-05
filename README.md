@@ -41,36 +41,21 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
   <li><b>Collaboration and Soft skills:</b> Active listening, teamwork, time management.</li>
 </ul>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
-
-### 🧠 Skills  
-[![My Skills](https://skillicons.dev/icons?i=python,r,linux,bash,git,github,html,css,js,react,aws,docker)](https://skillicons.dev)
-
-### 🧠 Skills  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+-->
 
 ## 🧠 Skills  
-[![My Skills](https://skillicons.dev/icons?i=python,r,linux,bash,git,github,html,css,js,react,aws,docker)](https://skillicons.dev)
 
-### 🧠 Skills  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![Nextflow](https://img.shields.io/badge/Nextflow-000000?logo=nextflow&logoColor=white)
-![Snakemake](https://img.shields.io/badge/Snakemake-333333?logo=snakemake&logoColor=white)
-![HPC](https://img.shields.io/badge/HPC-00599C?logo=linux&logoColor=white)
-![NGS](https://img.shields.io/badge/NGS-FF6F00?logo=dna&logoColor=white)
-
-### 🧠 Skills  
-[![Skills](https://skillicons.dev/icons?i=python,r,linux,bash,git,github,aws,docker,html,css,js,react)](https://skillicons.dev)
+### 💻 Programming & Dev  
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,r,linux,bash,git,github,aws,html,css,js,typescript,react)](https://skillicons.dev)
 
 ### 🔬 Bioinformatics & Data Science  
-[![Bioinfo](https://skillicons.dev/icons?i=python,r,postgres,sqlite,matlab,tensorflow,pytorch)](https://skillicons.dev)
+- NGS analysis (Illumina, Nanopore, PacBio)
+- Genome assembly & annotation  
+- BLAST, sequence alignment, phylogenetics  
+- Machine learning (supervised, unsupervised, PCA, clustering, regression, decision trees, neural networks)  
+- Data wrangling, visualization, statistical modelling
 
-# New:
-# Hi, I'm Ishita 👋
-
--->
+<!--
 
 ## 🧠 Skills
 
@@ -143,34 +128,7 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 
 ---
 
-## 🧠 Skills  
-
-### 💻 Programming & Dev  
-[![Skills](https://skillicons.dev/icons?i=python,r,linux,bash,git,github,aws,docker,html,css,js,typescript,react)](https://skillicons.dev)
-
-### 🔬 Bioinformatics & Data Science  
-- NGS analysis (Illumina, Nanopore, PacBio)  
-- Genome assembly & annotation  
-- BLAST, sequence alignment, phylogenetics  
-- Machine learning (PCA, clustering, regression, neural nets)  
-- Data wrangling, visualization, statistical modelling  
-
-## 🧠 Skills  
-
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-
-### 🔬 Bioinformatics  
-![NGS](https://img.shields.io/badge/NGS-FF6F00?logo=dna&logoColor=white) 
-![BLAST](https://img.shields.io/badge/BLAST-000000?logo=dna&logoColor=white) 
-![Genome Assembly](https://img.shields.io/badge/Genome_Assembly-9C27B0?logo=dna&logoColor=white)
-
-### 📊 Data Science & ML  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+-->
 
 
 <!--
