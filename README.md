@@ -142,6 +142,8 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 ![Time Management](https://img.shields.io/badge/Time_Management-795548?logo=clockify&logoColor=white)
 
 ---
+
+<!--
 # Testing:
 
 ## Section headers:
@@ -179,7 +181,7 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 [![Kaggle](https://img.shields.io/badge/Datasets-Kaggle-blue?labelColor=black&style=for-the-badge&logo=kaggle)](https://www.kaggle.com/ishiigoswami)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?labelColor=black&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishita-goswami-21aug/)
 
-
+-->
 
 <!--
 <h2 align="center">🚀 Technical & Professional Skills</h2>
