@@ -143,6 +143,36 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 
 ---
 
+## 🧠 Skills  
+
+### 💻 Programming & Dev  
+[![Skills](https://skillicons.dev/icons?i=python,r,linux,bash,git,github,aws,docker,html,css,js,typescript,react)](https://skillicons.dev)
+
+### 🔬 Bioinformatics & Data Science  
+- NGS analysis (Illumina, Nanopore, PacBio)  
+- Genome assembly & annotation  
+- BLAST, sequence alignment, phylogenetics  
+- Machine learning (PCA, clustering, regression, neural nets)  
+- Data wrangling, visualization, statistical modelling  
+
+## 🧠 Skills  
+
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+
+### 🔬 Bioinformatics  
+![NGS](https://img.shields.io/badge/NGS-FF6F00?logo=dna&logoColor=white) 
+![BLAST](https://img.shields.io/badge/BLAST-000000?logo=dna&logoColor=white) 
+![Genome Assembly](https://img.shields.io/badge/Genome_Assembly-9C27B0?logo=dna&logoColor=white)
+
+### 📊 Data Science & ML  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+
 <!--
 # Testing:
 
