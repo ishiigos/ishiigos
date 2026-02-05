@@ -142,6 +142,44 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 ![Time Management](https://img.shields.io/badge/Time_Management-795548?logo=clockify&logoColor=white)
 
 ---
+# Testing:
+
+## Section headers:
+![Projects](https://img.shields.io/badge/Projects-Portfolio-blue?labelColor=black&style=for-the-badge)
+
+## Skill highlighting: 
+![Python](https://img.shields.io/badge/Language-Python-yellow?labelColor=blue&style=flat-square)
+
+## Progress indicators:
+![AWS](https://img.shields.io/badge/AWS-Learning-orange?labelColor=green&style=plastic)
+
+## Personal branding
+![Manchester](https://img.shields.io/badge/Alumni-Manchester-red?labelColor=white&style=for-the-badge)
+
+## clickable navigation
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-purple?labelColor=black&style=for-the-badge)](https://ishiigos.github.io)
+
+## research identity
+![Genomics](https://img.shields.io/badge/Research-Genomics-purple?labelColor=black&style=for-the-badge)
+![Evolutionary Biology](https://img.shields.io/badge/Focus-Evolutionary_Biology-green?labelColor=black&style=for-the-badge)
+![Cancer Genomics](https://img.shields.io/badge/Application-Cancer_Genomics-red?labelColor=black&style=for-the-badge)
+
+## Technical skills
+![Python](https://img.shields.io/badge/Language-Python-yellow?labelColor=blue&style=flat-square&logo=python)
+![R](https://img.shields.io/badge/Language-R-lightgrey?labelColor=blue&style=flat-square&logo=r)
+![NGS](https://img.shields.io/badge/Workflow-NGS-darkred?labelColor=black&style=flat-square)
+![HPC](https://img.shields.io/badge/Environment-HPC-orange?labelColor=black&style=flat-square)
+
+## Certifications and upskilling
+![AWS](https://img.shields.io/badge/Certification-AWS_Cloud_Practitioner-orange?labelColor=black&style=for-the-badge&logo=amazonaws)
+![Learning](https://img.shields.io/badge/Status-In_Progress-yellow?labelColor=green&style=for-the-badge)
+
+## Portfolio and links 
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-purple?labelColor=black&style=for-the-badge&logo=github)](https://ishiigos.github.io)
+[![Kaggle](https://img.shields.io/badge/Datasets-Kaggle-blue?labelColor=black&style=for-the-badge&logo=kaggle)](https://www.kaggle.com/ishiigoswami)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?labelColor=black&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishita-goswami-21aug/)
+
+
 
 <!--
 <h2 align="center">🚀 Technical & Professional Skills</h2>
