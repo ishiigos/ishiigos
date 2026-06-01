@@ -55,6 +55,7 @@ You might know me as ***ishiigos*** from my other profiles, or maybe not, in whi
 - Machine learning (supervised, unsupervised, PCA, clustering, regression, decision trees, neural networks)  
 - Data wrangling, visualization, statistical modelling
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishiigos&theme=algolia)
 <!--
 
 ## 🧠 Skills
